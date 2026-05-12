@@ -38,24 +38,24 @@ The dataset emphasized:
 
 > Simple Explanation
 
-Linear Regression
-Simple Linear Model
-
-Step-by-Step:
-
- 1.Calculate slope (w)
- 2.Calculate intercept(b)
-
-Example: y = w*x + b
-
-Key Idea: Straight Line
-
-Summary:
-
-   - Easy to understand
-   - Predicts well for simple data patterns
-
-Limitations:
-
-   - Not suitable for complex datasets
+>Linear Regression
+>Simple Linear Model
+>
+>Step-by-Step:
+>
+>1.Calculate slope (w)
+> 2.Calculate intercept(b)
+>
+>Example: y = w*x + b
+>
+>Key Idea: Straight Line
+>
+>Summary:
+>
+>  - Easy to understand
+>  - Predicts well for simple data patterns
+>
+>Limitations:
+>
+>  - Not suitable for complex datasets
 
