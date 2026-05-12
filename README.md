@@ -7,7 +7,9 @@ The model is optimized for accessibility rather than purely technical precision,
 
 The model was trained on a custom educational dataset consisting
 of approximately 100 manually curated machine learning and robotics
-question-answer pairs.
+question-answer pairs. The dataset was manually assembled and refined using AI-assisted
+generation workflows to create educational machine learning and
+robotics explanations in an instruction-response format.
 
 The dataset emphasized:
 - simplified explanations,
@@ -15,10 +17,45 @@ The dataset emphasized:
 - beginner accessibility,
 - and example-driven teaching.
 
-The goal was not merely factual correctness, but pedagogical clarity.
-
-The dataset was manually assembled and refined using AI-assisted
-generation workflows to create educational machine learning and
-robotics explanations in an instruction-response format.
-
 ![Demo](demo.png)
+
+
+## Features
+
+- Step-by-step ML explanations
+- Beginner-friendly responses
+- Example-driven teaching style
+- Lightweight conversational interface
+- Failure-aware response analysis
+- Transformer-based architecture
+
+## Example Interaction
+
+### User
+> What is linear regression in ML?
+
+### Model
+
+> Simple Explanation
+
+Linear Regression
+Simple Linear Model
+
+Step-by-Step:
+
+ 1.Calculate slope (w)
+ 2.Calculate intercept(b)
+
+Example: y = w*x + b
+
+Key Idea: Straight Line
+
+Summary:
+
+   - Easy to understand
+   - Predicts well for simple data patterns
+
+Limitations:
+
+   - Not suitable for complex datasets
+
