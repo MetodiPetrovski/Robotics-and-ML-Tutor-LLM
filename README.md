@@ -96,3 +96,12 @@ The dataset emphasized:
 >
 >    Harder than prediction
 
+
+## Failure Analysis
+
+The model struggles with:
+
+- overly simplified answers
+- ambiguous prompts
+- long chain-of-thought reasoning
+- highly specialized research terminology
