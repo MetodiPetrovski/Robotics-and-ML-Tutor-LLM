@@ -62,39 +62,22 @@ The dataset emphasized:
 
 
 ### User
-> What is classification in ML?
+> What is an actuator in robotics?
+
 
 ### Model
 
->Example
+>An ACTUATOR is a device that converts energy into motion. In simple terms, it moves something.
 >
->Classification
->Categorizing Data
+>Example: A motor turning a wheel.
 >
->Examples:
->• Cats vs Dogs
->• Disease Types
+>Step-by-Step:
 >
->Goal: Assign Labels
+>1.Energy input (e.g., electricity)
+>2. Movement output
 >
->Steps:
->
->    Train model on examples
->    Make predictions
->
->Key Idea: Categories
->
->Example:
->
->    Classify images as cats or dogs.
->
->Benefits:
->
->    Understandable output
->
->Drawbacks:
->
->    Harder than prediction
+>Key Idea: Motion generation.
+
 
 
 ## Failure Analysis
@@ -105,3 +88,22 @@ The model struggles with:
 - ambiguous prompts
 - long chain-of-thought reasoning
 - highly specialized research terminology
+
+## Example of A Weak Response
+
+### User
+>What are support vector machines?
+
+### Model
+
+
+>Key Idea: Separating Hyperplanes
+
+>Simple Explanation:
+>Separate Classes with Lines
+>
+>Example: Face Recognition
+>
+>Key Idea: Maximizes Margin
+>
+>Machine Learning Technique
