@@ -60,3 +60,39 @@ The dataset emphasized:
 >
 >  - Not suitable for complex datasets
 
+
+### User
+> What is classification in ML?
+
+### Model
+
+>Example
+>
+>Classification
+>Categorizing Data
+>
+>Examples:
+>• Cats vs Dogs
+>• Disease Types
+>
+>Goal: Assign Labels
+>
+>Steps:
+>
+>    Train model on examples
+>    Make predictions
+>
+>Key Idea: Categories
+>
+>Example:
+>
+>    Classify images as cats or dogs.
+>
+>Benefits:
+>
+>    Understandable output
+>
+>Drawbacks:
+>
+>    Harder than prediction
+
