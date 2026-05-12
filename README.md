@@ -20,3 +20,5 @@ The goal was not merely factual correctness, but pedagogical clarity.
 The dataset was manually assembled and refined using AI-assisted
 generation workflows to create educational machine learning and
 robotics explanations in an instruction-response format.
+
+![Demo](demo.png)
