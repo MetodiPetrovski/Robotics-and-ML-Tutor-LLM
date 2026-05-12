@@ -44,7 +44,8 @@ The dataset emphasized:
 >Step-by-Step:
 >
 >1.Calculate slope (w)
-> 2.Calculate intercept(b)
+>
+>2.Calculate intercept(b)
 >
 >Example: y = w*x + b
 >
